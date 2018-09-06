@@ -26,7 +26,3 @@ do {
 } while (num < 15);
 return items
 }
-
-
-
-
