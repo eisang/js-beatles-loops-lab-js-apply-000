@@ -23,6 +23,6 @@ var items =[];
 do {
   items.push("I love the Beatles!");
   number++;
-} while (num < 15);
-return items
+} while (number < 15);
+return items;
 }
