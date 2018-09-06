@@ -16,12 +16,3 @@ info.push(facts[num] + "!!!");
  num++
 return info;
 }
-
-
-
-
-
-
-
-
-  
